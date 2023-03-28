@@ -9,7 +9,7 @@
 1. Clone the project using the `git clone` command and the URL of the course repository.
 
 ```bash
-git clone
+git clone https://github.com/LucianoJavierCostaPeralta/curos-backend-51220.git
 ```
 
 ### Run the Project
@@ -19,7 +19,7 @@ git clone
 1. Navigate to the project directory using the cd command.
 
 ```bash
- cd file
+ cd curso-backend-51220
 ```
 
 2. Install the project dependencies using the npm install command.
